@@ -1,0 +1,26 @@
+.bg-dark {
+    justify-content: space-between;
+}
+.w1 {
+    text-align: center;
+    margin-block: 100px;
+}
+.w1 h1 {
+    font-weight: 100;
+}
+.m {
+    display: flex;
+    justify-content: space-between;
+    padding-inline: 120px;
+}
+.m2 {
+    display: flex;
+    padding-inline-start: 120px;
+}
+.p-4 a {
+    text-decoration: none;
+}
+/* .vv {
+    display: flex;
+    margin-inline: 100px;
+} */
